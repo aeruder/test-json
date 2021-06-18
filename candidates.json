@@ -1,0 +1,27 @@
+{
+  "candidates": [
+    {
+      "id": "candidate1",
+      "name": "Andrew Ruder",
+      "description": "Backend Engineer",
+      "pictureUrl": "https://i.imgur.com/vEVoULO.png"
+    },
+    {
+      "id": "candidate2",
+      "name": "Jane Doe",
+      "description": "Frontend Engineer",
+      "pictureUrl": "https://i.imgur.com/t3fAhlU.png"
+    },
+    {
+      "id": "candidate3",
+      "name": "Tony Stark",
+      "description": "Mechanical Engineer",
+      "pictureUrl": "https://i.imgur.com/Kb25Qe9.png"
+    },
+    {
+      "id": "candidate4",
+      "name": "Kate A.",
+      "description": "Frontend Engineer"
+    }
+  ]
+}
